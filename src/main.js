@@ -1,4 +1,4 @@
-import NotesAPI from "./_NotesAPI.js";
+import NotesAPI from "./NotesAPI.js";
 
 NotesAPI.saveNote({
   title: "new note!",
