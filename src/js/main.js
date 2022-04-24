@@ -6,6 +6,6 @@ import NotesAPI from "./NotesAPI.js";
 //   body: "im new note text",
 // });
 
-NotesAPI.deleteNote(589742);
+NotesAPI.deleteNote(971996);
 
 console.log(NotesAPI.getAllNotes());
